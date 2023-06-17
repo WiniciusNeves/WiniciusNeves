@@ -11,7 +11,7 @@ computer science student , game , among other things
 
 
 [<img src='https://cdn.discordapp.com/attachments/1022281132282237018/1119680764280320072/kisspng-github-social-media-computer-icons-logo-android-5b348490ab20f1.548940641530168464701.png' alt='github' height='40'>](https://github.com/WiniciusNeves) 
-[<img src='https://static.vecteezy.com/system/resources/previews/018/930/585/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/winicius-neves-4b9257268/)  
+[<img src='https://github.com/cszach/cszach/blob/master/img/icons/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/winicius-neves-4b9257268/)  
 [<img src='https://github.com/cszach/cszach/blob/master/img/icons/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/winicius_neves/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/216uvwispazv76kqo2zzup44a?si=73a9b379e4ed4c6b&nd=1) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/winiciusneves/)  
