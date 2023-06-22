@@ -6,7 +6,7 @@ computer science student , game , among other things
 - 🌱 I’m currently learning  at the Faculty of Informatics 
 - 🤔 I’m looking for help with projector design and creation 
 - 💬 Ask me about food, play, work, what kind of person I am, and many other things 
-- 📫 How to reach me: [linktr.com](https://linktr.ee/winiciusneves?utm_source=linktree_admin_share) 
+- 📫 How to reach me: [linktr.com](https://linktr.ee/winiciusneves?utm_source=linktree_profile_share&ltsid=1a62ef87-2b51-4ee6-941e-9ecf29d04d4e) 
 - 😄 Pronouns: he/him
 
 
