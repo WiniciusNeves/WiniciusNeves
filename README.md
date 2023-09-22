@@ -25,7 +25,7 @@ computer science student , game , among other things
   </div>
 </div>
 
-<div style="display: flex; justify-content: space-between;">
+
   <div>
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=winiciusneves&theme=dark" alt="winiciusneves" /></p>
   </div>
