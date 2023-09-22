@@ -15,7 +15,7 @@ computer science student , game , among other things
 
 <h3 align="left">Connect with me:</h3>
 
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+<div style="display: flex; justify-content: space-between;">
   <div>
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=winiciusneves&show_icons=true&theme=dark&title_color=6125b1&text_color=ffffff&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="winiciusneves" /></p>
   </div>
@@ -25,12 +25,6 @@ computer science student , game , among other things
   </div>
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <div>
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=winiciusneves&theme=dark" alt="winiciusneves" /></p>
-  </div>
-
-  <div>
-    <!-- Coloque aqui o código HTML para o quarto elemento, se houver -->
-  </div>
+<div style="text-align: center;">
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=winiciusneves&theme=dark" alt="winiciusneves" /></p>
 </div>
