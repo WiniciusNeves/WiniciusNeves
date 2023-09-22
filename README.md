@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Winicius Neves
-![](https://www.canva.com/design/DAFmF6o_Of0/No5fFaN13zVCnnhm2U5uUA/view?utm_content=DAFmF6o_Of0&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+![](https://cdn.discordapp.com/attachments/1022281132282237018/1154580897530642503/Inserir_um_titulo_1.gif)
 
 computer science student , game , among other things
 
