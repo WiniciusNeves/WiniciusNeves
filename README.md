@@ -25,7 +25,12 @@ computer science student , game , among other things
   </div>
 </div>
 
-
-  <div>
+<div style="display: flex; justify-content: space-between; text-align: center;">
+  <div style="flex: 1;">
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=winiciusneves&theme=dark" alt="winiciusneves" /></p>
   </div>
+
+  <div style="flex: 1;">
+    <!-- Coloque aqui o código HTML para o quarto elemento, se houver -->
+  </div>
+</div>
