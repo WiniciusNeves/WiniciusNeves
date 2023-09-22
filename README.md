@@ -21,5 +21,5 @@ computer science student , game , among other things
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winiciusneves&show_icons=true&theme=dark&title_color=5d25b1&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="winiciusneves" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=winiciusneves&theme=dark" alt="winiciusneves" /></p>
+<p><img align="center center" src="https://github-readme-streak-stats.herokuapp.com/?user=winiciusneves&theme=dark" alt="winiciusneves" /></p>
 
