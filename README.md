@@ -18,8 +18,8 @@ computer science student , game , among other things
   [<img src='https://github.com/cszach/cszach/blob/master/img/icons/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/winicius-neves-4b9257268/)  [<img src='https://github.com/cszach/cszach/blob/master/img/icons/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/winicius_neves/) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/1024px-Spotify_App_Logo.svg.png' alt='spotify' height='40'>](https://open.spotify.com/user/216uvwispazv76kqo2zzup44a?si=73a9b379e4ed4c6b&nd=1) [<img src='https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png' alt='steam' height='40'>](https://steamcommunity.com/id/winiciusneves/)  
 
 
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=winiciusneves&show_icons=true&theme=dark&title_color=6125b1&text_color=ffffff&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="winiciusneves" /></p>
-    <img src="https://github-readme-stats.vercel.app/api?username=winiciusneves&show_icons=true&theme=dark&title_color=5d25b1&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="winiciusneves" 
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=winiciusneves&show_icons=true&theme=dark&title_color=6125b1&text_color=ffffff&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="winiciusneves" /><img src="https://github-readme-stats.vercel.app/api?username=winiciusneves&show_icons=true&theme=dark&title_color=5d25b1&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="winiciusneves"</p>
+     
 </div>
 
 <div style="text-align: center;">
