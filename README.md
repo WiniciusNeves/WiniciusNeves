@@ -19,7 +19,7 @@ computer science student , game , among other things
 
 <div align="auto"> 
       <p><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=winiciusneves&show_icons=true&theme=dark&title_color=5d25b1&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="winiciusneves"/>
-     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=winiciusneves&show_icons=true&theme=dark&title_color=6125b1&text_color=ffffff&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="winiciusneves" /></p>
+     <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=winiciusneves&show_icons=true&theme=dark&title_color=6125b1&text_color=ffffff&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="winiciusneves" /></p>
 </div>
 
 <div align="center"> 
