@@ -1,5 +1,5 @@
 <a href="https://linktr.ee/winiciusneves">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=1000&height=65&lines=Winicius+Neves;undergraduate+in+computing+sciences" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=1000&height=65&lines=Winicius+Neves;majoring+in+computer+science" alt="Typing SVG" /></a>
 
 ![Profile Banner](https://cdn.discordapp.com/attachments/1022281132282237018/1154580897530642503/Inserir_um_titulo_1.gif)
 
