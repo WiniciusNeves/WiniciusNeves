@@ -21,8 +21,8 @@ I'm a computer science student with a passion for gaming and exploring various i
 
 ### GitHub Stats:
 
-<div align="auto"> 
-  <p><img width="auto" height="200px" src="https://github-readme-stats.vercel.app/api?username=winiciusneves&show_icons=true&theme=dark&title_color=5d25b1&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="winiciusneves"/>
+<div align="flex"> 
+  <p><img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=winiciusneves&show_icons=true&theme=dark&title_color=5d25b1&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="winiciusneves"/>
   <img width="auto" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=winiciusneves&show_icons=true&theme=dark&title_color=6125b1&text_color=ffffff&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="winiciusneves" /></p>
 </div>
 
