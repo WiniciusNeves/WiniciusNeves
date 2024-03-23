@@ -62,3 +62,8 @@ I'm a computer science student with a passion for gaming and exploring various i
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=winiciusneves&theme=dark" alt="winiciusneves" /></p>
 </div>
 
+##
+
+<img src="https://raw.githubusercontent.com/WiniciusNeves/WiniciusNeves/output/snake.svg" alt="Snake animation" />
+
+###
