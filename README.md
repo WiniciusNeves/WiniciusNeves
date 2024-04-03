@@ -51,8 +51,11 @@ I'm a computer science student with a passion for gaming and exploring various i
 
 <div align="center";> 
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=WiniciusNeves&show_icons=true&theme=dark&title_color=5d25b1&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="WiniciusNeves"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=WiniciusNeves&show_icons=true&theme=dark&title_color=6125b1&text_color=ffffff&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="WiniciusNeves" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=WiniciusNeves&show_icons=true&theme=dark&title_color=6125b1&text_color=ffffff&bg_color=000000&hide_border=true&locale=en&layout=compact&card_width=510&langs_count=200" alt="WiniciusNeves" />
 </div>
+
+
+###
 
 
 
