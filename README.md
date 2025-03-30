@@ -1,36 +1,34 @@
 <a href="https://linktr.ee/winiciusneves">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=1000&height=65&lines=Winicius+Neves;majoring+in+computer+science" alt="Typing SVG" /></a>
 
-![Profile Banner](banner.gif)
+<h3 align="left">Conecte-se comigo:</h3>
 
-I'm a computer science student with a passion for gaming and exploring various interests.
+###
 
-- 🌱 Currently learning at the Faculty of Informatics.
-  
-- 🤔 Seeking help with projector design and creation.
-
-- 💬 Feel free to ask me about food, gaming, work, or anything else you're curious about.
-
-- 😄 Pronouns: he/him
-  ##
-### Connect with me:
-<br>
-<div> 
-  
-  <a href="https://www.instagram.com/winicius_neves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.linkedin.com/in/winicius-neves-4b9257268" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/216uvwispazv76kqo2zzup44a?si=73a9b379e4ed4c6b&nd=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
-  <a href="https://linktr.ee/winiciusneves" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
-  <a href ="mailto:winiciusdasilvaneves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/id/winiciusneves/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
-  
+<div align="center">
+  <a href="https://www.instagram.com/winicius_neves/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/winicius-neves/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://linktr.ee/winiciusneves" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+  </a>
+  <a href="mailto:winiciusneves2004@hotmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
 </div>
 
-<br>
+###
 
-### Language:
+<img align="right" height="200" src="https://media.tenor.com/PBcGjKppnacAAAAd/pixel-art.gif"  />
 
-<br clear="both">
+###
+
+<h3 align="left">linguagens de programação</h3>
+
+###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -65,36 +63,37 @@ I'm a computer science student with a passion for gaming and exploring various i
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
-<br>
+
+###
+
+<h3 align="left">Estatísticas do GitHub:</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=winiciusneves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winiciusneves&locale=en&hide_title=false&layout=compact&card_width=800&langs_count=50&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=winiciusneves&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="left">Sequência do GitHub:</h3>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/winiciusneves/winiciusneves/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/winiciusneves/winiciusneves/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/winiciusneves/winiciusneves/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ###
 
 ##
 
-### GitHub Stats:
 
-<div align="center";> 
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=WiniciusNeves&show_icons=true&theme=dark&title_color=5d25b1&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="WiniciusNeves"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=WiniciusNeves&show_icons=true&theme=dark&title_color=6125b1&text_color=ffffff&bg_color=000000&hide_border=true&locale=en&layout=compact&card_width=480&langs_count=200" alt="WiniciusNeves" />
-</div>
-
-
-###
-
-
-
-### GitHub Streak:
-
-<div align="center"> 
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=winiciusneves&theme=dark" alt="winiciusneves" /></p>
-</div>
-
-
-
-###
-
-##
-
-<img src="https://raw.githubusercontent.com/WiniciusNeves/WiniciusNeves/output/snake.svg" alt="Snake animation" />
-
-###
